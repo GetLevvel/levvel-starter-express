@@ -1,5 +1,3 @@
-Includes compression. helment, and cors
-
 # levvel-starter-express
 
 This project is an example implementation of express running on node.
@@ -21,7 +19,7 @@ Server will be running at http://localhost:3000
 
 ### TL;DR
 
-An opinionated express boilerplate
+An opinionated express boilerplate. Includes Cors, Helmet, Compression, and Morgan
 
 ## Key Libraries
 
