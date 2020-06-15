@@ -2,7 +2,7 @@ Includes compression. helment, and cors
 
 # levvel-starter-express
 
-This project is an example implementation of a express running on node
+This project is an example implementation of express running on node.
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ Server will be running at http://localhost:3000
 
 ### TL;DR
 
-Use SSR for any public-facing applications that you are exposing to the general internet. Use CSR for internal applications where you don't care about SEO or social media.
+An opinionated express boilerplate
 
 ## Key Libraries
 
