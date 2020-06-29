@@ -5,10 +5,10 @@ This project is an example implementation of express running on node.
 ## Getting Started
 
 ```bash
-git clone git@github.com:GetLevvel/levvel-starter-react.git
-cd levvel-starter-react
+git clone git@github.com:GetLevvel/levvel-starter-express.git
+cd levvel-starter-express
 npm install
-DEBUG=node-express:* npm start
+npm run start
 ```
 
 Server will be running at http://localhost:3000
